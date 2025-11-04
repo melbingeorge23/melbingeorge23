@@ -3,7 +3,9 @@
 🚀 **Flutter Developer | Full-Stack Engineer (Spring Boot, ReactJS, AWS)**  
 📍 Mangalore, Karnataka, India  
 
----
+--- 
+
+![snake gif](https://github.com/melbingeorge23/melbingeorge23/blob/output/snake.svg)
 
 ### 💡 About Me  
 I’m a software engineer passionate about crafting **modern, scalable mobile and web applications**.  
@@ -74,12 +76,6 @@ Built with TensorFlow and OpenCV.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=melbingeorge23&theme=transparent" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melbingeorge23&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
-
----
-
-### 🐍 My GitHub Contribution Snake  
-
-![snake gif](https://github.com/melbingeorge23/melbingeorge23/blob/output/snake.svg)
 
 ---
 
