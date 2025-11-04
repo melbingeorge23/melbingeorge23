@@ -1,82 +1,74 @@
-# 👋 Hi, I'm Melbin George  
+# 👋 Hey, I’m Melbin George
 
-🚀 **Software Engineer | Full-Stack Developer (Spring Boot, ReactJS, AWS)**  
-🌍 Based in Mangalore, Karnataka  
+🚀 **Software Engineer | Flutter & Full-Stack Developer**
 
 ---
 
 ### 💡 About Me  
-- 👨‍💻 Software Engineer with **2.2 years of experience** developing scalable **mobile & web applications**.  
-- 🧩 Skilled in **Flutter, Spring Boot, ReactJS, and MySQL** — from backend APIs to modern UIs.  
-- ☁️ Experienced in **AWS (EC2, ECS, S3, RDS, Lambda)** and **CI/CD pipelines** using GitHub Actions.  
-- 🤖 Hands-on with **Python** for building data pipelines and **training AI/ML models** (TensorFlow, Hugging Face).  
-- 🧠 Passionate about clean architecture, cloud-native design, and delivering user-focused digital products.  
-- 🏆 Former **team lead** at Molsys Pvt. Ltd — managed product lifecycle from concept to deployment.  
+I’m a software engineer passionate about crafting modern, high-performing mobile and web applications.  
+I love working across the full stack — from **Flutter UIs** to **Spring Boot backends** and **AWS deployments**.  
+
+Over the past **2.2 years**, I’ve built and led projects that combine strong engineering principles with clean UI design, cloud scalability, and CI/CD automation.  
+I’ve also trained and optimized **AI/ML models** using **Python, TensorFlow, and Hugging Face** for internal company projects.  
 
 ---
 
-### 🛠️ Tech Stack
-#### 💻 Languages
-`Java` `Dart` `Python` `JavaScript` `R`
+### 🛠️ Tech Stack  
 
-#### 🌐 Frontend
-`Flutter` `ReactJS` `HTML5` `CSS3`
+**Languages**  
+💻 Java · 🐍 Python · ☕ Dart · ⚡ JavaScript  
 
-#### ⚙️ Backend
-`Spring Boot` `Spring MVC` `Spring Security` `REST APIs`
+**Mobile & Web**  
+📱 Flutter · 🌐 ReactJS · HTML5 · CSS3  
 
-#### ☁️ Cloud & DevOps
-`AWS` `Docker` `GitHub Actions` `CI/CD`
+**Backend Development**  
+🔧 Spring Boot · Spring MVC · REST APIs · Microservices  
 
-#### 🧠 Machine Learning / AI
-`TensorFlow` `PyTorch` `Hugging Face` `scikit-learn` `Pandas` `NumPy`
+**Cloud & DevOps**  
+☁️ AWS (EC2, ECS, S3, RDS, Lambda, API Gateway) · Docker · GitHub Actions · CI/CD Pipelines  
 
-#### 🧰 Tools
-`Git` `JIRA` `Postman` `WordPress`
+**Databases**  
+🗄️ MySQL · Oracle · AWS RDS · Firebase  
 
----
+**AI / Data**  
+🤖 TensorFlow · PyTorch · Hugging Face · scikit-learn · Pandas · NumPy  
 
-### 📱 Featured Projects
-
-#### 🦋 **Flutter Mobile Application Product (2025)**
-Cross-platform mobile app using Flutter + Spring Boot + Firebase (OAuth2.0).  
-Achieved 60 FPS performance and 90% shared codebase across Android & iOS.  
-
-#### 📊 **Automated Data Analysis System (2024)**
-Python-based ETL pipelines with AWS Lambda and visualization dashboards.  
-Reduced processing time from 8 hours to 45 minutes.  
-
-#### 🧩 **Enterprise Web Platform (2023)**
-ReactJS + Spring Boot internal web system with JWT security & AWS S3 integration.  
-Improved workflow efficiency by 40%.  
-
-#### 🪖 **Helmet Detection Pipeline (2023)**
-Computer vision project for real-time helmet detection (IJIRSET publication).  
-Built with TensorFlow and OpenCV.  
+**Tools**  
+🧰 Git · JIRA · Postman · WordPress  
 
 ---
 
-### 🏗️ What I'm Currently Working On
-- Enhancing Flutter architecture with provider/state management patterns.  
-- Exploring **LangChain** and **LLMs** for experimental AI integration.  
-- Contributing to open-source Flutter plugins and backend tools.  
+### 📌 Featured Projects  
+
+🔹 **Flutter Mobile Application Product**  
+Cross-platform mobile app using Flutter + Spring Boot + MySQL with Firebase authentication and push notifications.  
+Achieved 90% code reusability across Android & iOS and consistent 60 FPS performance.  
+
+🔹 **Enterprise Web Platform**  
+ReactJS + Spring Boot internal portal with JWT authentication, AWS S3 integration, and multi-user roles.  
+Improved operational efficiency by 40%.  
+
+🔹 **Automated Data Analysis System**  
+Python-based ETL pipelines and AWS Lambda-based dashboards that reduced data processing time from 8 hours to 45 minutes.  
+
+🔹 **Helmet Detection Pipeline**  
+Computer vision model for real-time helmet detection published in IJIRSET (2023).  
+Tech: TensorFlow, CNN, OpenCV.  
 
 ---
 
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melbin-george)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melbingeorge23)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=firefox&logoColor=white)](https://melbingeorge.github.io)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melbingeorge17@gmail.com)
+### 🎓 Quick Background  
+🎓 B.E. in Computer Science and Engineering — *Visvesvaraya Technological University (2019–2023)*  
+🏢 Former Software Engineer & Team Lead — *Molsys Private Limited, Mangalore*  
+📍 Mangalore, Karnataka  
+⚙️ Passionate about cloud architecture, automation, and crafting smooth app experiences.  
+☕ Big fan of clean UI design and filter coffee.  
 
 ---
 
-⭐️ From [Melbin George](https://github.com/melbingeorge23)
-
+### 📫 Let’s Connect  
+[LinkedIn](https://www.linkedin.com/in/melbin-george) • [GitHub](https://github.com/melbingeorge23) • [Portfolio](https://melbingeorge.github.io) • [Email](mailto:melbingeorge17@gmail.com)
 
 ---
 
-### 📊 GitHub Stats
-![Melbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=melbingeorge23&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melbingeorge23&layout=compact)
-
+⭐️ *From [Melbin George](https://github.com/melbingeorge23)*
