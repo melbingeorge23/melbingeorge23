@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Melbin George
 
-🚀 **Software Engineer | Flutter & Full-Stack Developer**
+🚀 **Software Engineer | Full-Stack Developer**
 
 ---
 
