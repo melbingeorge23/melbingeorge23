@@ -11,7 +11,7 @@
 I’m a software engineer passionate about crafting **modern, scalable mobile and web applications**.  
 I enjoy building across the full stack — from **Flutter UIs** to **Spring Boot backends** and **AWS cloud deployments**.  
 
-With over **2.2 years of experience**, I’ve built, led, and deployed production-grade applications integrating CI/CD, REST APIs, and real-time data.  
+With over **3+ years of experience**, I’ve built, led, and deployed production-grade applications integrating CI/CD, REST APIs, and real-time data.  
 I’ve also trained **AI/ML models** using **Python, TensorFlow, and Hugging Face** for internal projects — focusing on performance and optimization.  
 
 ---
