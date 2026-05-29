@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Melbin George  
 
-🚀 **Flutter Developer | Software Engineer (Java, Python, AWS, AI/ML)**  
+🚀 **Fullstack Developer | Software Engineer (Java, Python, AWS, AI/ML)**  
 📍 Mangalore, Karnataka, India  
 
 --- 
@@ -22,10 +22,10 @@ I’ve also trained **AI/ML models** using **Python, TensorFlow, and Hugging Fac
 💻 Java · 🐍 Python · ☕ Dart · ⚡ JavaScript · 📈 R  
 
 **Mobile & Web:**  
-📱 Flutter · 🌐 ReactJS · HTML5 · CSS3  
+📱 Flutter · 🌐 ReactJS · Angular 
 
 **Backend:**  
-🧩 Spring Boot · Spring MVC · REST APIs · Microservices  
+🧩 Spring Boot · Spring MVC · Django · REST APIs · Microservices  
 
 **Cloud & DevOps:**  
 ☁️ AWS (EC2, ECS, S3, RDS, Lambda, API Gateway, CloudWatch) · Docker · GitHub Actions · CI/CD Pipelines  
